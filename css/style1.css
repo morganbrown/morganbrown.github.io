@@ -1,0 +1,63 @@
+
+p, h1, div{
+	size: 30px;
+	text-align: center;
+	line-height: 48px;
+	outline-color: blue;
+	font-family: 'Gentium Basic', serif;
+}
+
+body{
+	background-color: grey;
+}
+
+h1{
+	line-height: 100px;
+}
+
+
+/*<-----SECTIONS----->*/
+#intro {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	height: 2100px;
+	width: 300px;
+	background-color: #CD853F;
+    /*background-image: url("https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg");*/
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#background {
+	height: 900px;
+	position: relative;
+	left: 300px;
+	width: 1130px;
+    /*background-image: url("http://www.planwallpaper.com/static/images/colorful-triangles-background_yB0qTG6.jpg");*/
+    background-color: #85C1E9;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#interests {
+	height: 900px;
+	position: relative;
+	left: 300px;
+	width: 1130px;
+	background-color: #ABEBC6;
+    /*background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIEgZj1ZTs8sXNZ2ie2wTWTQjU-zgnmH4DoW9JvpAp7luzha7A*/
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#goals {
+	height: 900px;
+	position: relative;
+	left: 300px;
+	width: 1130px;
+	background-color: #D2B4DE;
+    /*background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwN99EkPurJFMyQYSzInNyyxWQueuvh_nrL2gYwJ3P7orMEBxEZQ");*/
+    background-size: cover;
+    background-repeat: no-repeat;
+}
